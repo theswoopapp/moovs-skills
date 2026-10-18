@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "moovs-skills",
+  "version": "0.3.0",
+  "description": "Public Moovs guidance and authorized browser task execution, with plan checks, exact consequential approvals and saved-state readback."
+}

@@ -1,0 +1,20 @@
+{
+  "name": "moovs-skills-pilot",
+  "interface": {
+    "displayName": "Moovs Skills pilot"
+  },
+  "plugins": [
+    {
+      "name": "moovs-skills",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
